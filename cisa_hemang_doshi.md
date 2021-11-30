@@ -24,5 +24,32 @@ risk treatment
     risk acceptance
     risk transfer
 
+audit charter
+    static changed annually
+    outlines roles and responsibilities
 
+compliance vs substantive testing
+    attribute sampling vs variable sampling
+    look for controls vs audit review
+    select a subset of new items for complicance vs subjectively find item for testing
+    attribute sampling internal controls
+    last 50 new users tested - compliance testing
 
+csa -control self assessment
+    involving line managers
+    finding high risk areas
+    auditors are facilitators
+    done during priliminary analysis
+    early identification of risk
+
+sampling
+    stop or go sampling  - fast , not finding anything
+    discovery sampling - discovering fraud
+    confidence coefficient  - the probability that the sample is representative of the population 
+        high sample size means high confidence coreraltion
+    statistical sampling minimises detection risk, objective quatificaiton of data
+    if interanlcontrolsare strong then reduce confidence coefficient
+
+Data analytics and CAAT
+    Process of dataanalytics
+    caat and Generalised audit tools -approved
