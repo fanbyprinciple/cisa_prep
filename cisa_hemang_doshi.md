@@ -53,3 +53,21 @@ sampling
 Data analytics and CAAT
     Process of dataanalytics
     caat and Generalised audit tools -approved
+    caat for substantive testing
+
+EDI
+    between2organisations
+
+integratedaudit
+    operational financial and IS
+
+outsourcing function - problem
+    BCPandDRP
+    legal is important
+    SLA
+
+IT strategy commitee and IT steering commitee
+    advisirolesand implementors
+
+IT alignment with business
+    
