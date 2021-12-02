@@ -56,7 +56,7 @@ To ensure the organization's survival following a disaster, it is important to r
 18. 
 Parallel testing is the best method for testing data results and system behavior because it allows the users to compare obtained results with both systems before decommission of the legacy system. Parallel testing also results in better user adoption of the new system. Multiple testing will not compare results from the old and new systems. Integration testing refers to how the system interacts with other systems, and it is not performed by end users. Prototype testing will not compare results from the old and new systems.
 
-43 percemt
+43 percemt - out of 30
 
 1. 
 Open hubs represent a significant control weakness because of the potential to access a network connection easily. An intelligent hub would allow the deactivation of a single port while leaving the remaining ports active. Additionally, physical security would also provide reasonable protection over hubs with active ports.
@@ -106,8 +106,134 @@ oncremental backup scheme
 15. 
 An organization would have reached the highest level of the software CMM at level 5, optimizing. Quantitative quality goals can be reached at level 4 and below, a documented process is executed at level 3 and below, and a process tailored to specific projects can be achieved at level 2 or below.
 
-16. 
+56 percent  - out of 75
 
+43 percent - out of 30
 
+60 percent out of 10
 
+1. functional walk through of disaster recover people coming from all functional units
+2. 
+A. Earned value analysis (EVA) is based on the premise that if a project task is assigned 24 hours for completion, it can be reasonably completed during that time frame. According to EVA, the project is behind schedule because the value of the eight hours spent on the task should be only four hours, considering that 20 hours of effort remain to be completed.
 
+B. EVA is based on the premise that if a project task is assigned 24 hours for completion, it can be reasonably completed during that time frame. According to EVA, the project is behind schedule because the value of the eight hours spent on the task should be only four hours, considering that 20 hours of effort remain to be completed.
+
+C. EVA is based on the premise that if a project task is assigned 24 hours for completion, it can be reasonably completed during that time frame. According to EVA, the project is behind schedule because the value of the eight hours spent on the task should be only four hours, considering that 20 hours of effort remain to be completed.
+
+D. EVA is based on the premise that if a project task is assigned 24 hours for completion, it can be reasonably completed during that time frame. According to EVA, the project is behind schedule because the value of the eight hours spent on the task should be only four hours, considering that 20 hours of effort remain to be completed.
+
+incomplete
+
+1. Impact means cost to the organisation
+
+56 percent - 30
+
+53 percent - 30
+
+Remeber to keep your cool
+
+1. The IS auditor should be present when disaster recovery plans are tested, to ensure that the test meets the targets for restoration, and the recovery procedures are effective and efficient. As appropriate, the auditor should provide a report of the test results. All other choices are a responsibility of management.
+
+2. you report  avirus in audit but not other stuff
+
+3. Sensitive functions are best described as those that can be performed manually at a tolerable cost for an extended period of time. Critical functions are those that cannot be performed unless they are replaced by identical capabilities and cannot be replaced by manual methods. Vital functions refer to those that can be performed manually but only for a brief period of time; this is associated with lower costs of disruption than critical functions. Noncritical functions may be interrupted for an extended period of time at little or no cost to the company, and require little time or cost to restore.
+
+4. 
+Its always firewall
+In this case, a firewall could be used as a strong control to allow authorized users on the wireless network to access the wired network. While having two physically separate networks would ensure the security of customer data, it would make it impossible for authorized wireless users to access that data. While a VLAN would provide separation of the two networks, it is possible, with sufficient knowledge, for an attacker to gain access to one VLAN from the other. Similarly, a dedicated router between the two networks would separate them; however, this would be less secure than a firewall.
+
+5. 
+project portfolio
+A project portfolio database is the basis for project portfolio management. It includes project data, such as owner, schedules, objectives, project type, status and cost. Project portfolio management requires specific project portfolio reports. A project database may contain the above for one specific project and updates to various parameters pertaining to the current status of that single project. Policy documents on project management set direction for the design, development, implementation and monitoring of the project. Program organization is the team required (steering committee, quality assurance, systems personnel, analyst, programmer, hardware support, etc.) to meet the delivery objective of the project.
+
+40 percent 30 question
+
+1. 
+If developers have access to the production environment, there is a risk that untested code can be migrated into the production environment. In situations in which there is no dedicated testing group, the business analyst is often the one to perform testing because the analyst has detailed knowledge of how the system must function as a result of writing the requirements. It is acceptable in a small team for the IT manager to perform system administration, as long as the manager does not also develop code. Choice D is not correct because it may be part of the DBA's duties to perform backups.
+
+2. 
+A reciprocal agreement in which two organizations agree to provide computing resources to each other in the event of a disaster is a form of risk mitigation. This usually works well if both organizations have similar information processing facilities. Because the intended effect of reciprocal agreements is to have a functional DRP, it is a risk mitigation strategy. Risk transfer is the transference of risk to a third party, e.g., buying insurance for activities that pose a risk. Risk avoidance is the decision to cease operations or activities that give rise to a risk. For example, a company may stop accepting credit card payments to avoid the risk of credit card information disclosure. When an organization decides to accept the risk as is and do nothing to mitigate or transfer it, that is risk acceptance.
+
+3. 
+While an IS audit may identify instances of inappropriate access, it is the business owner who would identify that issue first. Presence of an identity management application is not a prerequisite for carrying out a review of the access list. Account reconciliations assess the validity, correctness or appropriateness of the account balance at a specific point in time, but do not review user access privileges.
+
+4. 
+when to raise the error is big question
+
+66 percent 30 questions 
+
+activation code - 88410-54057-09910-30987
+hardware code - 90490-40050-05612
+install code - ICISA-2013.0-54238-75792-987
+
+1. The three primary dimensions of a project are determined by the deliverables, the allocated resources and the delivery time. The area of the project management triangle, comprised of these three dimensions, is fixed. Depending on the degree of freedom, changes in one dimension might be compensated by changing either one or both remaining dimensions. Thus, if resource allocation is decreased an increase in quality can be achieved, if a delay in the delivery time of the project will be accepted. The area of the triangle always remains constant.
+
+76 percent 30  questions
+
+1. business continuity plan on duration of outage
+
+56 percent 30 questions 24 min
+
+1. 
+
+The long-term financial viability of a vendor is essential for deriving maximum value for the organization—it is more likely that a financially sound vendor would be in business for a long period of time. The capability of the organization to support the enterprise should extend beyond the time of execution of the contract. The objective of financial evaluation should not be confined to the immediate contract, but to provide assurance over a longer time frame. The specific financial condition of the vendor would not be of primary concern.
+
+2. 
+Portfolio management is designed to assist in the definition, prioritization, approval and running of a set of projects within a given organization. These tools offer data capture, workflow and scenario planning functionality, which can help identify the optimum set of projects (from the full set of ideas) to take forward within a given budget. A CMM would not help determine the optimum portfolio of capital projects since it is a means of assessing the relative maturity of the IT processes within an organization: running from Level 0 (Incomplete—Processes are not implemented or fail to achieve their purpose) to Level 5 (Optimizing—Metrics are defined and measured, and continuous improvement techniques are in place). A configuration management database (which stores the configuration details for an organization's IT systems) is an important tool for IT service delivery and, in particular, change management. It may provide information that would influence the prioritization of projects, but is not designed for that purpose. PMBOK is a methodology for the management and delivery of projects. It offers no specific guidance or assistance in optimizing a project portfolio.
+
+3. 
+A. The RPO is determined based on the acceptable data loss in case of a disruption of operations. It indicates the earliest point in time that is acceptable to recover the data. The RPO effectively quantifies the permissible amount of data loss in case of interruption. The media creation date will reflect the point to which data are to be restored or the RPO.
+
+B. The RTO is the amount of time allowed for the recovery of a business function or resource after a disaster occurs.
+
+C. The SDO is directly related to the business needs, and is the level of service to be reached during the alternate process mode until the normal situation is restored.
+
+D. The MTO is the maximum time that an organization can support processing in alternate mode.
+
+4. 
+Applying a cryptographic hashing algorithm against the entire message addresses the message integrity issue. Enciphering the message digest using the sender's private key addresses nonrepudiation. Encrypting the message with a symmetric key, thereafter allowing the key to be enciphered using the receiver's public key, most efficiently addresses the confidentiality of the message as well as the receiver's nonrepudiation. The other choices would address only a portion of the requirements.
+
+60 percent 40  questions 35 min
+
+1. 
+IDS should close the firewall
+
+2. 
+A paper test is appropriate for testing a BCP. It is a walk-through of the entire plan, or part of the plan, involving major players in the plan's execution, who reason out what may happen in a particular disaster. Choices A, C and D are not appropriate for a BCP.
+
+3. 
+It is critical for the EA to include the future state because the gap between the current state and the future state will determine IT strategic and tactical plans. If the EA does not include a future-state representation, it is not complete, and this issue should be reported as a finding. Choice A is not correct because the IS auditor would not ordinarily provide input on the timing of projects, but rather provide an assessment of the current environment. The most critical issue in this scenario is that the EA is not yet complete, so the auditor should be most concerned with reporting this issue. Choice C is not correct because the company is free to choose any EA framework and the IS auditor should not recommend a specific framework. Choice D is not correct because changing the scope of an audit to include the secondary project is not a realistic option.
+
+4. 
+unauthorised transaction greatest risk
+
+50 percent 30 questions 45 min
+
+1. 
+An IS auditor must review the change management process, including patch management procedures, and verify that the process has adequate controls and make suggestions accordingly. The other choices are part of a good change management process but are not an IS auditor's responsibility.
+
+2. 
+Although maintenance requirements vary based on complexity and performance workloads, a hardware maintenance schedule should be validated against the vendor-provided specifications. For business reasons, an organization may choose a more aggressive maintenance program than the vendor's program. The maintenance program should include maintenance performance history, be it planned, unplanned, executed or exceptional. Unplanned maintenance cannot be scheduled. Hardware maintenance programs do not necessarily need to be in line with historical trends. Maintenance schedules normally are not approved by the steering committee.
+
+3. 
+The use of a DBA user account is normally set up to log all changes made and is most appropriate for changes made outside of normal working hours. The use of a log allows changes to be reviewed. The privileged accounts can be used by multiple users, and the use of a normal user account with no restrictions would allow uncontrolled changes to the databases. The use of the DBA user account without logging would permit uncontrolled changes to be made to databases once access to the account was obtained.
+
+4. 
+RTO measures an organization's tolerance for downtime and RPO measures how much data loss can be accepted. Choices B, C and D are incorrect since they exceed the RTO limits set by the scenario.
+
+5. 
+Mapping identifies specific program logic that has not been tested and analyzes programs during execution to indicate whether program statements have been executed. A snapshot records the flow of designated transactions through logic paths within programs. Tracing and tagging shows the trail of instructions executed during an application. Logging is the activity of recording specific tasks for future review.
+
+6. 
+It is a common mistake to use scenario planning for business continuity. The problem is that it is impossible to plan and document actions for every possible scenario. Planning for just selected scenarios denies the fact that even improbable events can cause an organization to break down. Best practice planning addresses the four possible areas of impact in a disaster: premises, people, systems and suppliers and other dependencies. All scenarios can be reduced to these four categories and can be handled simultaneously. There are very few special scenarios which justify an additional separate analysis. It is a good idea to use best practices and external advice for such an important topic, especially since knowledge of the right level of preparedness and the judgment about adequacy of the measures taken is not available in every organization. The RTOs are based on the essential business processes required to ensure the organization's survival; therefore, it would be inappropriate for them to be based on IT capabilities. Best practice guidelines recommend having 20–40 percent of normal capacity available at an emergency site; therefore, a value of 50 percent would not be a problem if there are no additional factors.
+
+7. 
+disaster means catastrophic service interruption
+
+33 percent - failed
+
+70 percent - 7 min 10 question
+
+40 percent - 10 questions failed
+
+80 percent - known questions

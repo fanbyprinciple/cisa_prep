@@ -1,2 +1,4 @@
 *.7z
 *.pdf
+./node_modules/
+react-multi-choice-quiz
