@@ -237,3 +237,31 @@ disaster means catastrophic service interruption
 40 percent - 10 questions failed
 
 80 percent - known questions
+
+1. 
+D. Segregation of incompatible duties is critical to good change management because the same individual should not initiate a change, approve the change and implement the change.
+
+61 percent - 75 questions - 1 hour
+
+1. 
+ ECC requires limited bandwidth resources and is suitable for encrypting mobile devices.
+
+B. DES uses less processing power when compared with AES, but ECC is more suitable for encrypting data on mobile devices.
+
+C. AES cannot be used to encrypt mobile devices because it consumes too much processing power.
+
+D. The use of the blowfish algorithm consumes too much processing power.
+
+2. 
+DRP is to be tested first
+
+3. 
+Reviewing system log files is the only trail that may provide information about the unauthorized activities in the production library. Source and object code comparisons are ineffective, because the original programs were restored and do not exist. Reviewing executable and source code integrity is an ineffective control, because integrity between the executable and source code is automatically maintained.
+
+4. 
+Double blind supremacy
+
+62 percent - 100 questions - 1 hour 19 min
+
+
+
