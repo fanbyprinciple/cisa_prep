@@ -263,5 +263,5 @@ Double blind supremacy
 
 62 percent - 100 questions - 1 hour 19 min
 
-
+50 percent - 10 question failed
 
