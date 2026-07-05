@@ -16,3 +16,9 @@
 
 All the best
 
+## other resources 
+
+Youtube :-
+https://www.youtube.com/watch?v=NfYB5_AnlTg
+
+
