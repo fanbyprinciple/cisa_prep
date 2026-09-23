@@ -1,5 +1,19 @@
 # cisa practice tests
 
+Step 1: Read the complete book.
+
+Step 2: Attempt the end-of-chapter practice questions in each chapter before moving on to the next one.
+
+Step 3: Go through ISACA’s QAE book or database.
+
+Step 4: Refer to ISACA’s CISA Review Manual.
+
+Step 5: Memorize key concepts using the flashcards on the website.
+
+Step 6: Attempt the online practice question sets. Make a note of the concepts you are weak in, revisit those in the book, and re-attempt the practice questions.
+
+Step 7: Keep repeating the practice question sets till you are able to answer all the questions in each practice set correctly within the time limit.
+
 ## Online questions
 
 1. https://www.simplilearn.com/cisa-exam-questions-free-practice-test#will-this-cisa-practice-test-questions-help-in-clearing-the-actual-certification-exam
