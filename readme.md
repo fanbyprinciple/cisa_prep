@@ -1,6 +1,6 @@
 # cisa practice tests
 
-Step 1: Read the complete book.
+Step 1: Read the complete book. important.
 
 Step 2: Attempt the end-of-chapter practice questions in each chapter before moving on to the next one.
 
