@@ -14,6 +14,8 @@ Step 6: Attempt the online practice question sets. Make a note of the concepts y
 
 Step 7: Keep repeating the practice question sets till you are able to answer all the questions in each practice set correctly within the time limit.
 
+step 8. study sincerely.
+
 ## Online questions
 
 1. https://www.simplilearn.com/cisa-exam-questions-free-practice-test#will-this-cisa-practice-test-questions-help-in-clearing-the-actual-certification-exam
