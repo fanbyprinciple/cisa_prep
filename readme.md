@@ -39,3 +39,11 @@ https://www.youtube.com/watch?v=NfYB5_AnlTg
 
 References from : https://drive.google.com/drive/u/0/folders/1ISU_SS2Qab-xGlW64B_zzCOvbx12Sx5S
 
+# Reattempt
+
+## Day 1
+
+looking at the syllabus and reading through.
+
+
+
