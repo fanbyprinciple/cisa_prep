@@ -238,4 +238,81 @@ Risk based audit planning is the deployment of audit resources ot aread of great
 
 ### Audit risk and materiality
 
+risk that informatino colelcted may contina a material error that may go undetrected
+
+inherenet risk
+
+that process is sexecuted without ccontrols
+
+control risk - material error that would not be detcted byh contols
+
+Detection Risk - This is the risk that material errors or misstatements will not be detecter by an IS auditor
+
+Audit risk - may not detct material error, information, or financial reports
+
+Materiality is the importance of a piece of informaion with regard to its iompact ofr effect ont he functioning of the entity being audited
+
+materalisty and risk are inverted
+
+## Risk assessment
+
+## IS aidit Risk manageement techniques
+
+evaluation o frisk factors
+
+subjective risk assessment
+
+risk managment for logistics and thoroughness and most resoruces are directd to high risk areas
+
+effectively manageong th eaudit department 
+
+how individual subject is related to the overall organisation as to the busine ss plan
+
+
+## Risk Analysis
+
+### Types of controls and considerations
+
+reduce risk in the organisation
+
+internal contols
+
+mitigate risk exposuer from achieving its business objectives
+
+what shoudl ebe achieved and what should be vavoided
+
+## control objectives and measurs
+
+business objective and measures
+
+analysisof log
+
+### IS contol objectives
+
+Reasonable assurance for business objectives
+
+accpting risk by not implementing what doesnot aply
+
+safeguard IS
+
+SDLC
+
+integrity
+
+CIA
+
+
+### General controls
+
+Managerial - policy
+
+TEcnical
+
+Physical
+
+### Business Process Applications and Controls
+
+Different from IT resources needed in the IT function
+
+
 
